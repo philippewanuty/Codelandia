@@ -1,2 +1,2 @@
 # Codelandia
- About Desafio apresentado pela  comunidade Codelândia no Figma
+Desafio apresentado pela  comunidade Codelândia no Figma
