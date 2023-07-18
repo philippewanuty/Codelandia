@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+:root {
+  /*Color Stystem*/
+
+  --suport-01: #2962ff;
+  --suport-02: #0bb07b;
+  --suport-03: #ffce52;
+  --suport-04: #f03d3d;
+  --suport-05: #e0e0e0;
+
+  --band-color: #574ae8;
+
+  --dark-10: #1a202c;
+  --dark-20: #717171;
+  --dark-30: #f3f5f7;
+  --dark-40: #ffffff;
+}
+
+@font-face {
+    font-family: Lexend;
+    src: url(font/LexendDeca-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    height: 250px;
+    
+    background-image: linear-gradient(to right, var(--band-color) , var(--suport-01) );
+    opacity: ;
+    box-shadow:  0px 1px 7px rgb(5, 5, 171);
+}
+
+main {
+
+}
+
+article {
+
+}
+
+article p {
+font-family: Lexend;
+}
